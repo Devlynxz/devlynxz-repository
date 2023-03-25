@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating portfolio projects<br>📚 I'm currently learning python language<br>🎯 Goals: To develop a software application that solves a real-world problem and improves people's lives, using the knowledge and skills you acquire as an IT student.</p>
+<p align="left">✨ Creating portfolio projects<br>📚 I'm currently learning python language<br>🎯 Goals: To develop a software application that solves a real-world problem and improves people's lives, using the knowledge and skills I acquire as an IT student.</p>
 
 ###
 
